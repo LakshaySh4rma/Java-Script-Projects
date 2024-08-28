@@ -1,0 +1,2 @@
+# Tic Tac Toe Game
+The Tic Tac Toe Game project in JavaScript is a classic two-player game where players take turns marking either "X" or "O" on a 3x3 grid. The goal is to be the first to form a horizontal, vertical, or diagonal line of three identical symbols. This project demonstrates fundamental concepts in JavaScript such as event handling, DOM manipulation, and game logic implementation. It provides a great learning experience for beginners, focusing on interactive gameplay and responsive design.
